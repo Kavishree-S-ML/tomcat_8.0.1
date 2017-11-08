@@ -1,0 +1,10 @@
+{
+  "manifests/init.pp": "dde591054d5b4872442c542b04a09473",
+  "manifests/params.pp": "b2329f612b8186622fb0cbd6bf1d0b24",
+  "metadata.json": "b785ebc98511cb4d7b391cc0bbcd34fe",
+  "templates/server.xml.erb": "7f57b45dd0b6f4ace36a01c94410cf72",
+  "templates/setenv.sh": "a9e5a1f5c886c93d0d5a5fe55d825ef5",
+  "templates/tomcat-initscript.sh": "e5fefd5e174b17c321df10b17d5cfcda",
+  "templates/tomcat-users.xml.erb": "7dba955748104a1233ff50ca946f9925",
+  "templates/tomcat.service": "3e095b2a71185ed10091e53e36ab17c8"
+}
